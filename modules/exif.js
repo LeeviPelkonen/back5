@@ -1,3 +1,5 @@
+'use strict';
+
 const ExifImage = require('exif').ExifImage;
 
 const getCoordinates = (img) => {
